@@ -26,7 +26,7 @@ From these results alone we can see that there is a surplus of drivers in Urban 
 * Average fare per driver in the Rural locations was at $55.49, Suburban avereage fare per driver was at $39.50 and Urban avereage fare per driver was at $16.57
 
 The multiple-line graph as seen below allows for further interpretation by comparing each city types weekly fare and the momth of the year.   
-
+![Total Fare by City Type](https://user-images.githubusercontent.com/48603147/143372853-3a6e50c6-233c-4051-85f6-624bb73e46b3.png)
 
 ---
 ## Summary
