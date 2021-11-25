@@ -7,14 +7,20 @@ The purpose of this project was to perfom an analysis on PyBer to determine ride
 
 ## Results
 Created a ride-sharing summary dataframe by city type by:
-* getting the total rides for each city type
+* Getting the total rides for each city type
 * Getting the total drivers foreach city type
 * Retrieve thte total amount of fares for each city type
 * Calculate the average fare per ride for each city type
 * Calculate the average fare per driver for each city type
 * Created the data frame and formated the columns  
 ![PyBer data frame table](https://user-images.githubusercontent.com/48603147/143360311-40e98c09-5a69-4982-8f4c-1d098bb8bd00.png)
+
+From the results we can infer that:
+* There were 125 Rural rides, 625 Suburban rides and 1625 Urban rides
+  * For every Rural ride there was 5 Suburban rides and 13 Urban rides
+* There were 78 Rural drivers, 490 Suburban divers and 2405 Urban drivers
+  * For every Rural driver there was 6.28 Suburban drivers and 30.93 Urban drivers    
+From these results alone we can see that there is a surplus of drivers in Urban cities when looking at the ratio of rides to drivers. There are 30X more Urban drivers then rural drivers while there were only 13X more Urban rides then Rural rides. We can see how this impacts the average fare per driver in the PyBer ride share table.
+* Average fare per driver in the Rural locations was at $55.49, Suburban avereage fare per driver was at $39.50 and Urban avereage fare per driver was at $16.57
 ---
-## Election Audit Results
-### Election Outcomes 
-The first step in my audit after importing the csv and os was to link the election results csv to python by assigning a variable to load a file from a path. Following that step I assigned a variable to save the file to a path. Reading and writing data, I performed calculations on the vote count and used conditional statements and loops to calculate the results. The following bullet points contain the election audit results:
+## Summary
