@@ -28,7 +28,7 @@ From these results alone we can see that there is a surplus of drivers in Urban 
 The multiple-line graph as seen below allows for further interpretation by comparing each city types weekly fare and the month of the year.   
 ![Total Fare by City Type](https://user-images.githubusercontent.com/48603147/143372853-3a6e50c6-233c-4051-85f6-624bb73e46b3.png)
 
-From the created line chart we can see that Urban has the highest fares per week with Suburban second and Rural last. Each city type seems to follow similar trends with there being spikes for all three cities towards the end of Februrary. This could be attributed to holiday or special event. Another observation I made was that in April Urban and Rural fares increased considerably while for the suburbs the total sum of fares went down. This could be due to multiple factors such as individuals traveling from the suburbs to rural or urban locations.
+From the created line chart we can see that Urban has the highest fares per week with Suburban second and Rural last. Each city type seems to follow similar trends with there being spikes for all three cities towards the end of Februrary. This could be attributed to holiday or special event. Another observation I made was that in April, Urban and Rural fares increased considerably while for the suburbs the total sum of fares went down. This could be due to multiple factors such as individuals traveling from the suburbs to rural or urban locations.
 
 ---
 ## Summary
