@@ -4,12 +4,15 @@ Week 5 of Columbia's DS Bootcamp
 ---
 ## Overview of Pyber ride share project
 The purpose of this project was to perfom an analysis on PyBer to determine rider-ship and fare costs from city to city. Using Pandas and Python I created a summary DataFrame that held the metrics needed to create tables and visualizations via matplotlib. The visualization, a multiple-line graph, showed the total weekely fares for each city type and allowed for a clearer understanding of the data. The multiple-line graph as seen below allows for an easy interpretation.  
-# PyPoll_Challenge.py
 
-week 3 for Coloumbia's DS bootcamp
----
-## Overview of Election Audit
-A Colorado Board of Elections requested for an election audit of a recent local congressional election. The goal of the analysis was to determine which candidate won the election based on their vote percentage and total number of votes. In addition, I calculated  the total number of votes that came from each county and determined which county was the largest contributer. To perform this analysis I used python via the Visual Studio Code platform. 
+## Results
+Created a ride-sharing summary dataframe by city type by:
+* getting the total rides for each city type
+* Getting the total drivers foreach city type
+* Retrieve thte total amount of fares for each city type
+* Calculate the average fare per ride for each city type
+* Calculate the average fare per driver for each city type
+* Created the data frame and formated the columns  
 
 ---
 ## Election Audit Results
