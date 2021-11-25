@@ -3,7 +3,7 @@
 Week 5 of Columbia's DS Bootcamp
 ---
 ## Overview of Pyber ride share project
-The purpose of this project was to perfom an analysis on PyBer to determine rider-ship and fare costs from city to city. Using Pandas and Python I created a summary DataFrame that held the metrics needed to create tables and visualizations via matplotlib. The visualization, a multiple-line graph, showed the total weekely fares for each city type and allowed for a clearer understanding of the data. 
+The purpose of this project was to perfom an analysis for PyBer - a Python based ride sharing app company -  to determine rider-ship and fare costs from city to city. Using Pandas and Python I created a summary DataFrame that held the metrics needed to create tables and visualizations via matplotlib. The visualization, a multiple-line graph, showed the total weekely fares for each city type and allowed for a clearer understanding of the data. 
 
 ## Results
 Created a ride-sharing summary dataframe by city type by:
