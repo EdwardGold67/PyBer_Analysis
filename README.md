@@ -32,3 +32,4 @@ From the created line chart we can see that Urban has the highest fares per week
 
 ---
 ## Summary
+Overall, we can infer that while Urban cities have the largest revenue for total fares, the average fare for drivers and riders are most expensive in rural areas. That could be attributed to how long the drives are, assuming that fares are calculated based on duration of the drive. Typically locations are more spread out in rural areas compared to suburban or Urban areas and as a result, the rides could be longer. Another contributing factor could be supply and demand; with rides being a lot less in demand in Rural areas the supply of drivers also is decreased. In order to keep drivers from moving into Urban cities where they can get more business, they could have increased their prices per ride. 
