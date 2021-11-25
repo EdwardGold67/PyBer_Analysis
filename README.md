@@ -13,7 +13,7 @@ Created a ride-sharing summary dataframe by city type by:
 * Calculate the average fare per ride for each city type
 * Calculate the average fare per driver for each city type
 * Created the data frame and formated the columns  
-![PyBer data frame table]https://user-images.githubusercontent.com/48603147/143360311-40e98c09-5a69-4982-8f4c-1d098bb8bd00.png
+![PyBer data frame table](https://user-images.githubusercontent.com/48603147/143360311-40e98c09-5a69-4982-8f4c-1d098bb8bd00.png)
 ---
 ## Election Audit Results
 ### Election Outcomes 
