@@ -8,7 +8,7 @@ The purpose of this project was to perfom an analysis for PyBer - a Python based
 ## Results
 Created a ride-sharing summary dataframe by city type by:
 * Getting the total rides for each city type
-* Getting the total drivers foreach city type
+* Getting the total drivers for each city type
 * Retrieve thte total amount of fares for each city type
 * Calculate the average fare per ride for each city type
 * Calculate the average fare per driver for each city type
