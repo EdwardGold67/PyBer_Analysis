@@ -18,7 +18,7 @@ Created a ride-sharing summary dataframe by city type by:
 From the results we can infer that:
 * There were 125 Rural rides, 625 Suburban rides and 1625 Urban rides
   * For every Rural ride there was 5 Suburban rides and 13 Urban rides
-* There were 78 Rural drivers, 490 Suburban divers and 2405 Urban drivers
+* There were 78 Rural drivers, 490 Suburban drivers and 2405 Urban drivers
   * For every Rural driver there was 6.28 Suburban drivers and 30.93 Urban drivers  
 * Rural cities have the highest average fare per ride and highest average fare per driver  
 
